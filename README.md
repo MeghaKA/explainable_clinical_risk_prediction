@@ -61,6 +61,17 @@ Used as a machine learning ensemble model to compare predictive performance agai
 | Random Forest | 0.985 | 1.00 |
 
 ---
+## ROC Curve Analysis
+
+### Logistic Regression ROC Curve
+
+![Logistic ROC](ROC Logistics.png)
+
+### Random Forest ROC Curve
+
+![Random Forest ROC](ROC_randomforest.png)
+
+---
 
 ## Explainable AI (XAI)
 
