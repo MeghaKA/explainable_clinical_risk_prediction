@@ -46,6 +46,10 @@ The project uses the UCI Heart Disease dataset containing clinical and physiolog
 - SHAP
 
 ---
+## Technical Report
+
+- This report presents the methodology and explainability analysis conducted within the “Explainable Clinical Risk Prediction” project repository.
+ 
 
 ## Machine Learning Models
 
